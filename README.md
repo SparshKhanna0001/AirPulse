@@ -12,12 +12,12 @@ AirPulse Japan is a Power BI dashboard designed to analyze the links between **a
 
 ## 🖼️ Dashboard Snapshots
 
-![Page 1](screenshots/AirPulseJapan_page-0001.png)  
-![Page 2](screenshots/AirPulseJapan_page-0002.png)  
-![Page 3](screenshots/AirPulseJapan_page-0003.png)  
-![Page 4](screenshots/AirPulseJapan_page-0004.png)  
-![Page 5](screenshots/AirPulseJapan_page-0005.png)  
-![Page 6](screenshots/AirPulseJapan_page-0006.png)
+![Page 1](AirPulseJapan/AirPulseJapan_page-0001.png)  
+![Page 2](AirPulseJapan/AirPulseJapan_page-0002.png)  
+![Page 3](AirPulseJapan/AirPulseJapan_page-0003.png)  
+![Page 4](AirPulseJapan/AirPulseJapan_page-0004.png)  
+![Page 5](AirPulseJapan/AirPulseJapan_page-0005.png)  
+![Page 6](AirPulseJapan/AirPulseJapan_page-0006.png)
 
 ---
 
