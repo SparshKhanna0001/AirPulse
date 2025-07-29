@@ -12,12 +12,23 @@ AirPulse Japan is a Power BI dashboard designed to analyze the links between **a
 
 ## 🖼️ Dashboard Snapshots
 
-![Page 1](AirPulseJapan/AirPulseJapan_page-0001.jpg)  
-![Page 2](AirPulseJapan/AirPulseJapan_page-0002.jpg)  
-![Page 3](AirPulseJapan/AirPulseJapan_page-0003.jpg)  
-![Page 4](AirPulseJapan/AirPulseJapan_page-0004.jpg)  
-![Page 5](AirPulseJapan/AirPulseJapan_page-0005.jpg)  
-![Page 6](AirPulseJapan/AirPulseJapan_page-0006.jpg)
+#### Map Distribution
+![Page 1](AirPulseJapan/AirPulseJapan_page-0001.jpg)  </br>
+---
+#### AQI by Region
+![Page 2](AirPulseJapan/AirPulseJapan_page-0002.jpg)  </br>
+---
+#### AQI Constituents
+![Page 3](AirPulseJapan/AirPulseJapan_page-0003.jpg)  </br>
+---
+#### Weather Indicators
+![Page 4](AirPulseJapan/AirPulseJapan_page-0004.jpg)  </br>
+---
+#### Socio Health Based Impact
+![Page 5](AirPulseJapan/AirPulseJapan_page-0005.jpg)  </br>
+---
+#### Economic Activity & Green Coverage by Region
+![Page 6](AirPulseJapan/AirPulseJapan_page-0006.jpg)  </br>
 
 ---
 
