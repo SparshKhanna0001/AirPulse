@@ -1,0 +1,36 @@
+MaskPercentMonth = AVERAGEX(
+	ADDCOLUMNS(
+		SUMMARIZE(
+			'air_quality_health_data',
+			'air_quality_health_data'[Date]
+			)
+		"MonthlyAvg", FORMAT('air_quality_health_data'[Date], "MM-YYYY"),
+		"MaskUsageMonthly", CALCULATES(AVERAGE('air_quality_health_data'[Mask Rate Usage]))
+		)
+	[MaskUsageMonthly]
+)
+
+
+MaskPercentMonth = AVERAGEX(
+	ADDCOLUMNS(
+		SUMMARIZE(
+			'air_quality_health_data',
+			'air_quality_health_data'[Date]
+			),
+		"MonthlyAvg", FORMAT('air_quality_health_data'[Date], "MM-YYYY"), | cannot find date
+		"MaskUsageMonthly", CALCULATE(AVERAGE('air_quality_health_data'[Mask Usage Rate])) | cannot find mask usage rate
+		),
+	[MaskUsageMonthly]
+)
+
+Public Transport Usage %age = AVERAGEX(
+	ADDCOLUMNS(
+		SUMMARIZE(
+			'air_quality_health_dataset',
+			'air_quality_health_dataset'[Date]
+			)
+		"MonthlyAvg", FORMAT('air_quality_health_dataset'[Date], "MM-YYYY"),
+		"MaskUsagePercent", CALCULATE(AVERAGE('air_quality_health_dataset'[Public Transport Usage]))
+		)
+	[MaskUsagePercent]
+)

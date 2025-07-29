@@ -1,0 +1,19 @@
+AIR POLLUTION BASED POWERBI PROJECT REPORT
+
+coulmns: date,region,AQI,PM2.5,PM10,NO2,SO2,CO,O3,temperature,humidity,wind_speed,precipitation,hospital_visits,emergency_visits,mobility_index,school_closures,public_transport_usage,mask_usage_rate,lockdown_status,industrial_activity,vehicle_count,construction_activity,respiratory_admissions,population_density,green_cover_percentage
+
+date : for time duration the poluution overall qtly, weekly
+
+aqi breakdown fter ormalisation obvi | donut 
+
+then aqi | weekly vs hospital emergy ...... that area kinda
+ 
+region wise green cover , industrial activity that area activity
+
+map
+	.
+bar .::,, by weekly temp nd weather | more like monthly 
+
+
+pGE:1 introductio
+Page 2: industrial activity and health hazards
